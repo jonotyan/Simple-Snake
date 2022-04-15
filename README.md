@@ -12,10 +12,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/made%20on-python-blue" >
   <img src="https://img.shields.io/badge/with-turtle-brightgreen">
-  <img src="https://img.shields.io/github/stars/jonotyan/Simple-Snake">
+  <img src="https://img.shields.io/github/license/jonotyan/Simple-Snake">
   <img src="https://img.shields.io/badge/%20-%20-white" >
   <a href="https://t.me/openlaketv"><img src="https://img.shields.io/badge/%20more%20guides-here-informational"></a>
-  <img src="https://img.shields.io/github/license/jonotyan/Simple-Snake">
+  <img src="https://img.shields.io/github/stars/jonotyan/Simple-Snake">
 </p>
 
   
