@@ -5,7 +5,7 @@
 
 <img src="https://img.shields.io/badge/made%20on-python-blue" >
 
-<img src="https://img.shields.io/badge/with-turtle-brightgreen">
+
 
 <img src="https://img.shields.io/github/license/jonotyan/Simple-Snake">
 
