@@ -13,11 +13,8 @@
 
 <img src="https://img.shields.io/github/stars/jonotyan/Simple-Snake">
 
-<img src="https://img.shields.io/badge/%20more%20guides-here-informational">
-
-<img src="https://img.shields.io/badge/you%20can-share%20%F0%9F%91%89-important">
-
-<img src="Twitter badge	https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fjonotyan%2FSimple-Snake">
+<a src="https://t.me/openlaketv"><img src="https://img.shields.io/badge/%20more%20guides-here-informational"></a>
+  
 </p>
 
 _Простенькая змейка с грфическим модулем Turtle_
@@ -29,7 +26,7 @@ _Простенькая змейка с грфическим модулем Turt
 
 <p align="center">
   <img src="data/gamescreen.png", alt='Главный экран игры'>
-  <img src="data/gameover.png", alt='Экран проигрыша'>
+  <img src="data/gameoverscreen.png", alt='Экран проигрыша'>
 </p>
 
 # Содержание проекта
