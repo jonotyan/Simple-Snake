@@ -5,13 +5,13 @@
 
 <img src="https://img.shields.io/badge/made%20on-python-blue" >
 
-<img src="">
+<img src="https://img.shields.io/badge/with-turtle-brightgreen">
 
-<img src="">
+<img src="https://img.shields.io/github/license/jonotyan/Simple-Snake">
 
-<img src="" >
+<img src="https://img.shields.io/badge/%20-%20-white" >
 
-<img src="">
+<img src="https://img.shields.io/github/stars/jonotyan/Simple-Snake">
 
 <img src="">
 
