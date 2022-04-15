@@ -28,18 +28,14 @@ _Простенькая змейка с грфическим модулем Turt
 
 <h1 align="center">Скриншоты игры</h1>
 
-<div>
- <p align="left">
+<div width='100%'>
+ <div align="left">
   <img src="data/gamescreen.png" alt='Главный экран игры' width='300' height='300'>
- </p>
- <p align="right">
+ </div>
+ <div align="right">
   <img src="data/gameoverscreen.png" alt='Экран проигрыша' width='300' height='300'>
-</p>
+ </div>
 </div>
-<p align="left">
-  <img src="data/gamescreen.png" alt='Главный экран игры' width='300' height='300'>
-  <img src="data/gameoverscreen.png" alt='Экран проигрыша' width='300' height='300'>
-</p>
 
 # Содержание проекта
 
