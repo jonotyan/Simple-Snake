@@ -2,21 +2,22 @@
 <h1 align="center">Simple Snake</h1>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/made%20on-python-blue" >
-
-  <img src="https://img.shields.io/badge/with-turtle-brightgreen">
+ 
 </p>
 
 <p align="right">
-  <img src="https://img.shields.io/github/license/jonotyan/Simple-Snake">
-
-  <img src="https://img.shields.io/badge/%20-%20-white" >
+  
 
 
 <p align="center">
+  <img src="https://img.shields.io/badge/made%20on-python-blue" >
+  <img src="https://img.shields.io/badge/with-turtle-brightgreen">
   <img src="https://img.shields.io/github/stars/jonotyan/Simple-Snake">
+  <img src="https://img.shields.io/github/license/jonotyan/Simple-Snake">
+  <img src="https://img.shields.io/badge/%20-%20-white" >
+  <a href="https://t.me/openlaketv"><img src="https://img.shields.io/badge/%20more%20guides-here-informational"></a>
 </p>
-<a src="https://t.me/openlaketv"><img src="https://img.shields.io/badge/%20more%20guides-here-informational"></a>
+
   
 
 
